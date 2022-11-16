@@ -7,7 +7,7 @@
 I'm a Full Stack Web Developer. who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Pride myself on doing quality work and maintain excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include HTML, CSS, Bootstrap, React, JavaScript as well as PHP.
 
 
-Skills:  REACT / JS / HTML / CSS/PHP
+Skills:  REACT / JS / HTML / CSS / PHP
 
 - 🔭 I’m currently working on YouTube 
 - 🌱 I’m currently learning JavaScript 
